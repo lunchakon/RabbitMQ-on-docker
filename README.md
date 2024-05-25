@@ -46,4 +46,5 @@ Remember to choose the method that best suits your needs and refer to the offici
 
 ## to study : RMQ - Publishing a Message With Go to 
 https://x-team.com/blog/set-up-rabbitmq-with-docker-compose/
+https://hub.docker.com/_/rabbitmq/
 
