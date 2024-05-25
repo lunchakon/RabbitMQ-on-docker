@@ -41,3 +41,9 @@ This command mounts the rabbitmq.conf file from your host machine (at /path/to/y
 - Mounting a configuration file offers more granular control but requires managing the file on your host machine.
 - Make sure the user running the Docker container has read permissions for the mounted configuration file.
 Remember to choose the method that best suits your needs and refer to the official RabbitMQ documentation for a complete list of available configuration options.
+
+
+
+## to study : RMQ - Publishing a Message With Go to 
+https://x-team.com/blog/set-up-rabbitmq-with-docker-compose/
+
